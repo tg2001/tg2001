@@ -3,12 +3,13 @@
 ### Welcome to my Github Profile
 
 - 🌱 I’m currently studying CSE at GCELT 
-- 🌱 I’m currently interested in and learning Machine Learning
+- 🌱 I’m currently interested in Machine Learning and Game Development
 - 🔭 I’m currently exploring Machine Learning with Python
 - 📫 How to reach me: 
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuhinangshu-gangopadhyay-73685b220/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVxJmGHCvqNwkDtpthkbFXdsGLpnzSjvCglvhWJdZsBSSbDHCXtrRJDSssBgDdWDcHxhL)
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) tuhinangshu.ganguly@gmail.com
 
 - ⚡ Check out my Game Development Projects on:
 
