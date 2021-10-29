@@ -2,14 +2,19 @@
 
 ### Welcome to my Github Profile
 
-- 🌱 I’m currently studying CSE at GCELT 
-- 🌱 I’m currently interested in Machine Learning and Game Development
+- 🌱 My name is Tuhinangshu Gangopadhyay
+- 🌱 I’m currently studying B.Tech in Computer Science and Engineering (CSE) at Government College Engineering and Leather Technology (GCELT), Kolkata
+- 🔭 I’m currently interested in Machine Learning and Game Development
 - 🔭 I’m currently exploring Machine Learning with Python
+- 🔭 I'm currently searching for internships in ML
 - 📫 How to reach me: 
- 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuhinangshu-gangopadhyay-73685b220/)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) tuhinangshu.ganguly@gmail.com
+Mail ID:  tuhinangshu.ganguly@gmail.com
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuhinangshu-gangopadhyay-73685b220/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tg2001)
+
+<!-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ->  -->
 
 - ⚡ Check out my Game Development Projects on:
 
