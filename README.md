@@ -4,7 +4,7 @@
 
 - 🌱 My name is Tuhinangshu Gangopadhyay
 - 🌱 I’m currently studying B.Tech in Computer Science and Engineering (CSE) at Government College Engineering and Leather Technology (GCELT), Kolkata
-- 🔭 I’m currently interested in Machine Learning and Game Development
+- 🔭 I’m interested in Machine Learning and Game Development
 - 🔭 I’m currently exploring Machine Learning with Python
 - 🔭 I'm currently searching for internships in ML
 - 📫 How to reach me: 
