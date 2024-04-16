@@ -3,16 +3,15 @@
 ### Welcome to my Github Profile
 
 - 🌱 My name is Tuhinangshu Gangopadhyay.
-- 🌱 I’m currently in the final year of my B.Tech in Computer Science and Engineering (CSE) at Government College Engineering and Leather Technology (GCELT), Kolkata.
+- 🌱 I’m currently an Erasmus Mundus Joint Master's student in Medical Imaging and Applications (MAIA) at the University of Burgundy (France), University of Cassino and Southern Lazio (Italy), and University of Girona (Spain).
 - 🔭 I’m interested in Artificial Intelligence and Machine Learning.
-- 🤔 So what about my future plans? I want to pursue MS in Computer Science from abroad. This will give me a much better exposure to the outer world, thus providing better experience and future prospects.
-- 📫 Check out my [CV](https://docs.google.com/document/d/1W_tWZVtQDdj0Sj6TIdw10l9eTn9eGKY1/edit?usp=sharing&ouid=113170886873944798069&rtpof=true&sd=true)
 - 📫 How to reach me (and check out my projects as well): 
 
 Mail ID:  tuhinangshu.ganguly@gmail.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuhinangshu-gangopadhyay-73685b220/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tg2001)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ZZXSRk0AAAAJ&hl=en)
 
 - 🔭 Also made 2-3 small projects on Animation and Game Development using Unity (just for fun), as I love playing games. Check them out on my itch.io profile.
 
