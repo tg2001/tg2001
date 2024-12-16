@@ -13,10 +13,6 @@ Mail ID:  tuhinangshu.ganguly@gmail.com
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tg2001)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ZZXSRk0AAAAJ&hl=en)
 
-- 🔭 Also made 2-3 small projects on Animation and Game Development using Unity (just for fun), as I love playing games. Check them out on my itch.io profile.
-
-[![ITCH.IO](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://tuhinangshu-01.itch.io/)
-
 
 <!-- - 🔭 I'm currently searching for internships in ML --!>
 <!-- - 🔭 I’m currently exploring Machine Learning with Python --!>
